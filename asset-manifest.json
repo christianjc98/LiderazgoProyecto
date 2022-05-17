@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/static/css/main.e40bf0bf.css",
-    "main.js": "/static/js/main.b56cfdf8.js",
-    "static/js/787.b54c9ff2.chunk.js": "/static/js/787.b54c9ff2.chunk.js",
-    "static/media/libro.jpg": "/static/media/libro.2a9da8ea2551f96969da.jpg",
-    "static/media/primeicons.svg": "/static/media/primeicons.c6e2053303524e39530c.svg",
-    "static/media/primeicons.eot": "/static/media/primeicons.7fc4d8e224d1ff1b9c62.eot",
-    "static/media/primeicons.woff": "/static/media/primeicons.449aa8c65cdc5c2a8686.woff",
-    "static/media/primeicons.ttf": "/static/media/primeicons.91bacab1f083f2795272.ttf",
-    "static/media/Salesforce.png": "/static/media/Salesforce.9ce023fbb3b6185b40fd.png",
-    "static/media/Marc-Benioff.jpg": "/static/media/Marc-Benioff.a2936a5881cef19a0e58.jpg",
-    "static/media/values.svg": "/static/media/values.4b824ef27febb223095f56d956f0be0d.svg",
-    "static/media/main-img.svg": "/static/media/main-img.98ed70c38ec3b7be56239535a57930a2.svg",
-    "static/media/logo.svg": "/static/media/logo.bad85589c299915c566f83e2d1b0151d.svg",
-    "index.html": "/index.html",
-    "main.e40bf0bf.css.map": "/static/css/main.e40bf0bf.css.map",
-    "main.b56cfdf8.js.map": "/static/js/main.b56cfdf8.js.map",
-    "787.b54c9ff2.chunk.js.map": "/static/js/787.b54c9ff2.chunk.js.map"
+    "main.css": "/LiderazgoProyecto/static/css/main.9135406c.css",
+    "main.js": "/LiderazgoProyecto/static/js/main.84bd42a8.js",
+    "static/js/787.b54c9ff2.chunk.js": "/LiderazgoProyecto/static/js/787.b54c9ff2.chunk.js",
+    "static/media/libro.jpg": "/LiderazgoProyecto/static/media/libro.2a9da8ea2551f96969da.jpg",
+    "static/media/primeicons.svg": "/LiderazgoProyecto/static/media/primeicons.c6e2053303524e39530c.svg",
+    "static/media/primeicons.eot": "/LiderazgoProyecto/static/media/primeicons.7fc4d8e224d1ff1b9c62.eot",
+    "static/media/primeicons.woff": "/LiderazgoProyecto/static/media/primeicons.449aa8c65cdc5c2a8686.woff",
+    "static/media/primeicons.ttf": "/LiderazgoProyecto/static/media/primeicons.91bacab1f083f2795272.ttf",
+    "static/media/Salesforce.png": "/LiderazgoProyecto/static/media/Salesforce.9ce023fbb3b6185b40fd.png",
+    "static/media/Marc-Benioff.jpg": "/LiderazgoProyecto/static/media/Marc-Benioff.a2936a5881cef19a0e58.jpg",
+    "static/media/values.svg": "/LiderazgoProyecto/static/media/values.4b824ef27febb223095f56d956f0be0d.svg",
+    "static/media/main-img.svg": "/LiderazgoProyecto/static/media/main-img.98ed70c38ec3b7be56239535a57930a2.svg",
+    "static/media/logo.svg": "/LiderazgoProyecto/static/media/logo.bad85589c299915c566f83e2d1b0151d.svg",
+    "index.html": "/LiderazgoProyecto/index.html",
+    "main.9135406c.css.map": "/LiderazgoProyecto/static/css/main.9135406c.css.map",
+    "main.84bd42a8.js.map": "/LiderazgoProyecto/static/js/main.84bd42a8.js.map",
+    "787.b54c9ff2.chunk.js.map": "/LiderazgoProyecto/static/js/787.b54c9ff2.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e40bf0bf.css",
-    "static/js/main.b56cfdf8.js"
+    "static/css/main.9135406c.css",
+    "static/js/main.84bd42a8.js"
   ]
 }
